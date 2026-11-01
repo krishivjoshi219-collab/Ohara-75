@@ -1,18 +1,17 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Good Display 7.5 inch E-Paper Raw Panel (800x480 GDEY075T7 24-pin FPC bare glass),1,Good Display,$28.00,$28.00,https://www.buy-lcd.com/products/75-inch-e-ink-display-electronic-paper-screen-fast-refresh-epaper-panel-gdey075t7
-ESP32-S3-WROOM-1-N8R8 (8MB Flash 8MB PSRAM),1,Robu.in,$4.86,$4.86,https://robu.in/product/espressif-esp32-s3-wroom-1-n8r8-modules/
-3.7V 2000mAh LiPo Battery Pouch Cell with Protection,1,Robu.in,$4.75,$4.75,https://robu.in/product/orange-2000mah-1s-30c-60c-lithium-polymer-battery-pack-lipo/
-5D Rocker / 5-Way Navigation Button Module,1,Robu.in,$1.18,$1.18,https://robu.in/product/5d-rocker-joystick-for-arduino-mcu-avr-game-five-direction-navigation-button-module/
-Kailh Choc Low Profile Switches (Next & Prev Page Buttons),2,NeoMacro,$0.95,$1.90,https://neomacro.in/products/kailh-choc-v1-low-profile-switches
-MicroSD Card Socket Push-Push SMD,1,Robu.in,$0.58,$0.58,https://robu.in/product/thd2528-11sd-gf-thd-2mm-connector-and-ejector-microsd-card-tf-card-push-push-smd-sd-card-memory-card-connector/
-USB-C 16-Pin Receptacle Connector SMD (TYPE-C-31-M-12),1,Robu.in,$0.42,$0.42,https://robu.in/product/type-c-31-m-12-smd-16-pin-female-usb-connector/
-TP4056 1A Standalone Li-Ion/LiPo Charger IC (ESOP-8),1,Robu.in,$0.30,$0.30,https://robu.in/product/tp4056-1a-standalone-linear-li-ion-battery-charger-ic-sop-8/
-ME6211C33M5G-N 3.3V 500mA Low Dropout Regulator (SOT-23-5),1,Robu.in,$0.42,$0.42,https://robu.in/product/me6211c33m5g-n-microne-sot-23-5/
-E-Paper Boost Circuit Set (AO3400A MOSFET + 1N5819W Schottky + 10uH Inductor),1,Robu.in,$0.62,$0.62,https://robu.in/product/ao3400a-n-channel-smd-mosfet-sot-23/
-0805 SMD Passives Pack (Decoupling Caps 1uF/4.7uF/10uF + Pullup Resistors + LEDs),1,Robu.in,$1.45,$1.45,https://robu.in/product/0805-smd-resistor-capacitor-assortment-pack/
-Control Switches (MSK-12C02 Power SPDT + EVQP7A Reset/Boot Buttons),1,Robu.in,$0.42,$0.42,https://robu.in/product/msk-12c02-smd-spdt-switch/
-JST-PH 2.0mm 2-Pin Battery Wire & Header,1,Robu.in,$0.30,$0.30,https://robu.in/product/jst-ph-2-0-2-pin-connector-cable-pair/
-M2 x 8mm Pan Head Self-Tapping Screws (4 pcs for Case Assembly),1,Robu.in,$0.54,$0.54,https://robu.in/product/m2-x-8mm-phillips-pan-head-screws/
+7.5 inch E-Paper Raw Display Panel (800x480 SPI 24-pin FPC bare glass),1,Waveshare,$28.00,$28.00,https://www.waveshare.com/product/7.5inch-e-paper.htm
+Espressif ESP32-S3-WROOM-1-N8R8 Module (8MB Flash 8MB PSRAM),1,Robu.in,$4.86,$4.86,https://robu.in/product/espressif-esp32-s3-wroom-1-n8r8-modules/
+NOVA 2000mAh 3.7V Micro LiPo Battery Pack,1,Robu.in,$4.75,$4.75,https://robu.in/product/nova-604060-2000mah-3-7v-micro-lipo-battery-pack/
+5D Rocker Joystick / 5-Way Navigation Button Module,1,Robu.in,$1.18,$1.18,https://robu.in/product/5d-rocker-joystick-for-arduino-mcu-avr-game/
+Kailh Switches Pack (Next & Prev Page Buttons),2,Meckeys,$0.95,$1.90,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-switch-pack/
+THD MicroSD Card Push-Push SMD Socket,1,Robu.in,$0.58,$0.58,https://robu.in/product/thd2528-11sd-gf-thd-2mm-connector-and-ejector-microsd-card-tf-card-push-push-smd-sd-card-memory-card-connector-rohs/
+USB 3.1 Type-C 16-Pin Female SMD Connector,1,Robu.in,$0.42,$0.42,https://robu.in/product/type-c-31-m-40-hroparts-5a-1-16p-female-30%e2%84%8380%e2%84%83-type-c-smd-usb-connectors-rohs/
+TP4056 1A Li-Ion Battery Charging Board (Micro USB/Type-C),1,Robu.in,$0.30,$0.30,https://robu.in/product/tp4056-1a-lipo-battery-charging-board-micro-usb-with-current-protection/
+MIC5219-3.3 500mA 3.3V LDO Voltage Regulator (SOT-23-5),1,Robu.in,$0.42,$0.42,https://robu.in/product/mic5219-3-3ym5-ms-msksemi-fixed-3-3v-24v-sot-23-5-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/
+AO3400A N-Channel MOSFET (SOT-23 Boost Circuit),1,Robu.in,$0.22,$0.22,https://robu.in/product/1-month-warranty-414/
+EasyMech M2.5x8mm Hex CSK Screw Set (Case Assembly),1,Robu.in,$0.54,$0.54,https://robu.in/product/easymech-m25-x-8mm-hex-allen-csk-high-tensile109-black-oxide-screw-dia-25mm-length-8mm/
+0805 SMD Passives Assortment (Resistors & Capacitors),1,Robu.in,$1.45,$1.45,https://robu.in/product/0805-smd-resistor-capacitor-assortment-pack/
+JST-PH 2.0mm 2-Pin Battery Wire Cable,1,Robu.in,$0.30,$0.30,https://robu.in/product/jst-ph-2-0-2-pin-connector-cable-pair/
 Custom Ohara-75 2-Layer PCB Fabrication (5 pcs),1,JLCPCB,$13.00,$13.00,https://www.jlcpcb.com/
 Print Legion 3D Enclosure (Base Tray + Lid),1,Hack Club,$6.00,$6.00,https://hackclub.com/printlegion/
 Estimated total shipping,1,,,$0.00,
