@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Ohara-75")(type "KiCad")(uri "${KIPRJMOD}/Ohara-75.pretty")(options "")(descr "Project-specific footprints"))
+)

@@ -1,0 +1,19 @@
+# MicroPython / build junk
+__pycache__/
+*.pyc
+
+# KiCad local history / backups
+.history/
+_restore_backup_*/
+*.kicad_prl
+*.lck
+*.bak-*
+*.before-*
+*.with-*
+Ohara-75-unsaved-export-*
+
+# Reports / old fabrication output
+*.rpt
+*.gbr
+*-job.gbrjob
+Ohara-75.zip
