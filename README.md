@@ -96,7 +96,7 @@ Ohara-75.step             PCB 3D model
 Ohara-75.pretty/          my custom footprints
 fp-lib-table              footprint library table
 JOURNAL.md                my Half Life devlog (the origin of this readme voice)
-BOM.csv                   bill of materials (still a work in progress lol)
+BOM.csv                   bill of materials ($63.42 total, under $65 budget)
 firmware/frimware.py      the simple ~100 line beginner firmware
 firmware/archive/         the full production firmware
 3d/Ohara-75-Base-Tray.stl base tray with the USB-C U-hole

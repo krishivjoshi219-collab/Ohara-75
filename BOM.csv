@@ -1,2 +1,18 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
+7.5 inch E-Paper Raw Display Panel (800x480 SPI 24-pin FPC bare panel),1,Waveshare,$26.99,$26.99,https://www.waveshare.com/7.5inch-e-paper.htm
+ESP32-S3-WROOM-1 (16MB Flash 8MB PSRAM),1,Robu.in,$4.50,$4.50,https://robu.in/product/esp32-s3-wroom-1-n16r8-wireless-module/
+3.7V 2000mAh LiPo Battery Pouch Cell with Protection,1,Robu.in,$4.80,$4.80,https://robu.in/product/orange-2000mah-1s-30c-60c-lithium-polymer-battery-pack-lipo/
+5D Rocker / 5-Way Navigation Button Module,1,Robu.in,$1.18,$1.18,https://robu.in/product/5d-rocker-joystick-for-arduino-mcu-avr-game-five-direction-navigation-button-module/
+Kailh Choc Low Profile Switches (Next & Prev Page Buttons),2,NeoMacro,$0.95,$1.90,https://neomacro.in/products/kailh-choc-v1-low-profile-switches
+MicroSD Card Socket Push-Push SMD,1,Robu.in,$0.58,$0.58,https://robu.in/product/thd2528-11sd-gf-thd-2mm-connector-and-ejector-microsd-card-tf-card-push-push-smd-sd-card-memory-card-connector/
+USB-C 16-Pin Receptacle Connector SMD (TYPE-C-31-M-12),1,Robu.in,$0.42,$0.42,https://robu.in/product/type-c-31-m-12-smd-16-pin-female-usb-connector/
+TP4056 1A Standalone Li-Ion/LiPo Charger IC (ESOP-8),1,Robu.in,$0.30,$0.30,https://robu.in/product/tp4056-1a-standalone-linear-li-ion-battery-charger-ic-sop-8/
+AP2112K-3.3 600mA Low Dropout 3.3V Regulator (SOT-23-5),1,Robu.in,$0.42,$0.42,https://robu.in/product/ap2112k-3-3trg1-diodes-incorporated-sot-23-5/
+E-Paper Boost Circuit Set (AO3400A MOSFET + 1N5819W Schottky + 10uH Inductor),1,Robu.in,$0.62,$0.62,https://robu.in/product/ao3400a-n-channel-smd-mosfet-sot-23/
+0805 SMD Passives Pack (Decoupling Caps 1uF/4.7uF/10uF + Pullup Resistors + LEDs),1,Robu.in,$1.45,$1.45,https://robu.in/product/0805-smd-resistor-capacitor-assortment-pack/
+Control Switches (MSK-12C02 Power SPDT + EVQP7A Reset/Boot Buttons),1,Robu.in,$0.42,$0.42,https://robu.in/product/msk-12c02-smd-spdt-switch/
+JST-PH 2.0mm 2-Pin Battery Wire & Header,1,Robu.in,$0.30,$0.30,https://robu.in/product/jst-ph-2-0-2-pin-connector-cable-pair/
+M2 x 8mm Pan Head Self-Tapping Screws (4 pcs for Case Assembly),1,Robu.in,$0.54,$0.54,https://robu.in/product/m2-x-8mm-phillips-pan-head-screws/
+Custom Ohara-75 2-Layer PCB Fabrication (5 pcs),1,JLCPCB,$13.00,$13.00,https://www.jlcpcb.com/
+Print Legion 3D Enclosure (Base Tray + Lid),1,Hack Club,$6.00,$6.00,https://hackclub.com/printlegion/
 Estimated total shipping,1,,,$0.00,
