@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 2 | 18.5h | 3 |
+| Week 4 | Tier 2 | 20h | 3 |
 
 ## Contents
 
@@ -164,7 +164,7 @@ Thx for reading
 
 ### 2026-11-01: Hi Hack club reviewers this is the finial AND FINIAL journal !!!!! here i will attach the screenshots of the 3D modeling and the onshape link so you can like uh see the livee time stamp here
 
-**5.5h**
+**7h**
 
 Hi Hack club reviewers this is the finial AND FINIAL journal !!!!! here i will attach the screenshots of the 3D modeling and the onshape link so you can like uh see the livee time stamp here
 https://cad.onshape.com/documents/ea0aa5899e68c988299c6c01/w/444ee3a1f6598db6ea51fffb/e/8477d663f29412e1f5501389?renderMode=0&uiState=6ae7526209c03a74a88ab56b
@@ -244,3 +244,4 @@ and I JUST STARTERED !!!!!!!!!!!!!!!!!! so i used ai as the guide for the frimwa
 AND YEAH SRY FOR MY SPELLING AS I SAID IN THE REAMDME TOO AND HELL WHY I AM I TYPING IN THE CPAS THE WHOLE TIME !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!
 thx for reading
 all the proff for the 3d modeling and the silkscreen is in the onshape link and the that uh  my repo files thx for reading
+and uh BOM is what is taking real time finding for the BOM is a trash
