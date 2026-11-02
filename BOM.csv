@@ -13,13 +13,13 @@ TYPE-C-31-M-12 HRO 16-Pin USB-C SMD Receptacle (J3 exact footprint),1,Robu.in,$0
 MSK12C02 SPDT SMD Slide Switch (Power switch SW10),1,Robu.in,$0.08,$0.08,https://robu.in/product/msk12c02-07-shou-han-1p2t-side-insert-smd-slide-switches-rohs/
 TK-1180A 3x4x2.5mm Tactile Switch (SW3 Reset + SW4 Boot),2,Robu.in,$0.04,$0.08,https://robu.in/product/tk-1180a-tactile-switch-smd/
 10k Ohm 0805 SMD Resistor Pack of 50 (R1 R3 R4 R5 pullups),1,Robu.in,$0.19,$0.19,https://robu.in/product/10k-ohm-0805-smd-resistor-pack-of-50/
-5.1k Ohm 0805 SMD Resistor (R6 R7 CC pulldown) x2,2,Robu.in,$0.005,$0.01,https://robu.in/product/rc0805fr-075k1l-yageo-res-thick-film-0805-5-1k-ohm-1-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r/
+5.1k Ohm 0805 SMD Resistor (R6 R7 CC pulldown) x2,2,Robu.in,$0.01,$0.02,https://robu.in/product/rc0805fr-075k1l-yageo-res-thick-film-0805-5-1k-ohm-1-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r/
 1.2k Ohm 0805 SMD Resistor (R8 TP4056 PROG charger current),1,Robu.in,$0.01,$0.01,https://robu.in/product/ac0805fr-071k2l-yageo-res-thick-film-0805-1-2k-ohm-1-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/
 1 Ohm 0805 SMD Resistor RK73H2ATTD1R00F (R2 EPD boost current sense),1,Robu.in,$0.01,$0.01,https://robu.in/product/rk73h2attd1r00f-koa-smd-chip-resistor1-ohm%c2%b1-1250-mw0805-2012-metricthick-filmprecision/
-1k Ohm 0805 SMD Resistor RC0805JR-071KL (R9 R10 LED current limiters) x2,2,Robu.in,$0.005,$0.01,https://robu.in/product/rc0805jr-071kl-yageo-res-thick-film-0805-1k-ohm-5-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r/
+1k Ohm 0805 SMD Resistor RC0805JR-071KL (R9 R10 LED current limiters) x2,2,Robu.in,$0.01,$0.02,https://robu.in/product/rc0805jr-071kl-yageo-res-thick-film-0805-1k-ohm-5-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r/
 1uF 50V 0805 SMD MLCC Capacitor Pack of 10 (C1 C5 C10),1,Robu.in,$0.01,$0.01,https://robu.in/product/1uf-1000nf-50v-capacitor-0805-smd-package-pack-of-10/
-4.7uF 50V 0805 SMD MLCC Capacitor Pack of 5 x2 packs (C2 C3 C4 C6 C7 C8),2,Robu.in,$0.035,$0.07,https://robu.in/product/4-7uf-4700nf-50v-capacitor-0805-smd-package-pack-of-5/
-10uF 50V 0805 SMD MLCC Capacitor (C9 C11 C12) x3,3,Robu.in,$0.048,$0.14,https://robu.in/product/0805x106k500nt-fh-50v-10uf-x5r%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/
+4.7uF 50V 0805 SMD MLCC Capacitor Pack of 5 x2 packs (C2 C3 C4 C6 C7 C8),2,Robu.in,$0.04,$0.08,https://robu.in/product/4-7uf-4700nf-50v-capacitor-0805-smd-package-pack-of-5/
+10uF 50V 0805 SMD MLCC Capacitor (C9 C11 C12) x3,3,Robu.in,$0.05,$0.15,https://robu.in/product/0805x106k500nt-fh-50v-10uf-x5r%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/
 0805 LED Red (D3 Charging indicator),1,Robu.in,$0.02,$0.02,https://robu.in/product/red-0805-smd-led-pack-of-10/
 0805 LED Green (D2 Done indicator),1,Robu.in,$0.02,$0.02,https://robu.in/product/green-0805-smd-led-pack-of-10/
 3.7V 500mAh HCY-602030 LiPo Battery with JST-PH Connector,1,Amazon.in,$1.04,$1.04,https://www.amazon.in/Electronic-HCY-602030-Rechargeable-Connector-Electronics/dp/B0HC6RRYJL/
@@ -27,4 +27,4 @@ EVA Double-Sided Foam Battery Mounting Tape 50mm x 5m,1,Robu.in,$1.13,$1.13,http
 Robu.in Domestic Shipping,1,Robu.in,$0.52,$0.52,https://robu.in/
 Custom Ohara-75 2-Layer PCB Fabrication (5 pcs),1,JLCPCB,$9.00,$9.00,https://www.jlcpcb.com/
 Print Legion 3D Enclosure (Base Tray + Lid),1,Hack Club Print Legion,$9.00,$9.00,https://hackclub.com/printlegion/
-Total,,,,,$67.93,
+Estimated total shipping,1,,,$0.00,
